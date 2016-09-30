@@ -74,8 +74,8 @@ class InputTodo extends Component {
 	      		</Button>
           </View>
          )}
-      </View>
-
+      </View>4
+			
     );
   }
 }
